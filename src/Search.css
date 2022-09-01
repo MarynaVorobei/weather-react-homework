@@ -1,0 +1,16 @@
+.Search ul {
+  display: inline-block;
+  margin: auto;
+  list-style: none;
+  padding: 20px 40px;
+}
+
+.Search .form-control {
+  border-color: #e0e5eb;
+  border-radius: 8px;
+  box-shadow: 0 2px 2px rgb(65 50 100 / 8%);
+}
+
+.Search .forecast {
+  border: 1px solid #04ac8f;
+}

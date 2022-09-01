@@ -12,7 +12,7 @@ export default function Footer() {
         >
           <br />
           Open-source code
-        </a>
+        </a>{" "}
         by Maryna Vorobei
       </small>
     </div>
